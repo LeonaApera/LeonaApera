@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hi, I’m Jianuo Cao — but you can call me Apera.
+I am a second‑year undergraduate student at Nanjing University (Suzhou campus) and a visiting student researcher at UC Berkeley.
 
 <!--
 **LeonaApera/LeonaApera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
